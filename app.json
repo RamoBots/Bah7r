@@ -52,7 +52,7 @@
       },
       "Muntazer": {
         "description": "~  ضع قناة الاشتراك الاجباري ( لاتنسى رفع البوت مشرف في القناة ) .",
-        "value": "Jecthon",
+        "value": "R_surce",
         "required": true
         
       },
@@ -64,7 +64,7 @@
       },
       "START_IMG_URL": {
         "description": "~  ضع صورة كليشة  الستارت .",
-        "value": "https://graph.org/file/a3d0fc5f396a342add1d1.jpg,
+        "value": "https://graph.org/file/a3d0fc5f396a342add1d1.jpg",
         "required": false
         
       },
@@ -98,7 +98,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/motvr/SourceVr",
+        "value": "https://github.com/RamoBots/Bah7r",
         "required": true
       }
     },
